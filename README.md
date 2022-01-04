@@ -1,2 +1,2 @@
 # portifolio
-Portifólio com estruturação HTML, CSS &amp; JavaScript
+HTML, CSS &amp; JavaScript
